@@ -5,4 +5,4 @@ This is a full-stack web application for rating rentals in San Francisco. Tourin
 <img width="1920" alt="Screen Shot 2024-06-03 at 4 02 11 PM" src="https://github.com/caznidarsic/rental_rating_app_frontend/assets/107156580/c22bfb49-f6ab-4ac8-a799-6dd0c3ea4bd6">
 <img width="1920" alt="Screen Shot 2024-06-03 at 4 02 46 PM" src="https://github.com/caznidarsic/rental_rating_app_frontend/assets/107156580/1149e6a3-9e7e-41f7-87d5-9f5a7e351f1d">
 
-RateMyRental uses Leaflet, OpenStreetMap, and the Nominatim API for geocoding.
+RateMyRental uses Leaflet, OpenStreetMap, and the Nominatim API for geocoding. It is a work in progress!
